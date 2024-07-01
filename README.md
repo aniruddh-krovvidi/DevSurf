@@ -19,11 +19,11 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone the repo  
    ```sh
-   git clone https://github.com/cse110-sp24-group29/cse110-sp24-group29.git
+   git clone https://github.com/aniruddh-krovvidi/DevSurf.git
    
 2. Navigate to the project directory
    ```sh
-   cd cse110-sp24-group29
+   cd DevSurf
 3. Delete the existing modules
      ```sh
    rm -rf package-lock.json node_modules
